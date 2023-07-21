@@ -1,0 +1,45 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"title": "OSF Hackathon 1 Project",
+	"description": "An entry in the first OSF Hackathon",
+	"type": "object",
+	"properties": {
+		"name": {
+			"description": "Your real name",
+			"type": "string"
+		},
+		"github": {
+			"description": "Your GitHub username",
+			"type": "string"
+		},
+		"discord": {
+			"description": "Your Discord USERNAME — not display name, not nickname",
+			"type": "string"
+		},
+		"email": {
+			"description": "Your email address",
+			"type": "string"
+		},
+
+		"repo": {
+			"description": "The NAME of the repo — not including username",
+			"type": "string"
+		},
+		"languages": {
+			"description": "The languages you used in your project",
+			"type": "array"
+		},
+		"title": {
+			"description": "The title of your project",
+			"type": "string"
+		},
+		"install": {
+			"description": "A one-line command to install or download your project",
+			"type": "string"
+		},
+		"requires": {
+			"description": "All tools required to build and run your project",
+			"type": "array"
+		}
+	}
+}
