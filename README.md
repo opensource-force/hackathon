@@ -1,6 +1,6 @@
 # Open Source Force Hackathon v1.0.0
 
-[![discord badge](https://img.shields.io/discord/913584348937207839?logo=discord)](https://discord.gg/DCznYuU4Ms)
+[![discord badge](https://img.shields.io/discord/913584348937207839?logo=discord&logo color=white)](https://discord.gg/DCznYuU4Ms)
 
 ## Metadata
 
