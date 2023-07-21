@@ -1,5 +1,5 @@
 {
-	"$schema": "http://json-schema.org/draft-04/schema#",
+	"$schema": "http://json-schema.org/draft-07/schema#",
 	"title": "OSF Hackathon 1 Project",
 	"description": "An entry in the first OSF Hackathon",
 	"type": "object",

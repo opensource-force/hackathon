@@ -18,9 +18,10 @@ Project: Some sort of API or CLI tool (subject to change)
 
 ### Registration
 
-1. Fork the repo.
+1. Fork the repo, clone, and run `npm i` if possible.
 2. Create a file in the `projects/` directory named `<username>.json`. Use your **GitHub** username.
 3. Follow the JSON schema in `project.schema.json` to fill out your file. See `project.example.json` for an example.
-4. Open a PR.
-5. Follow instructions in the Open Source Force Discord server to confirm your registration.
-6. Wait for merge.
+4. Validate your JSON if possible: `npm run validate -- projects/<username>.json`.
+5. Open a PR.
+6. Follow instructions in the Open Source Force Discord server to confirm your registration.
+7. Wait for merge.

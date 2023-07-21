@@ -8,6 +8,6 @@
 	"repo": "osf-hack-1",
 	"languages": ["TypeScript"],
 	"title": "My Project Title",
-	"install": "npm i -g my-project-title"
+	"install": "npm i -g my-project-title",
 	"requires": ["npm"]
 }
