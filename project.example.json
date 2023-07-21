@@ -1,0 +1,12 @@
+{
+	"name": "Akhil Pillai",
+	"username": "akpi816218",
+	"discord": "equus_quagga",
+	"email": "816218@seq.org",
+
+	"repo": "osf-hack-1",
+	"languages": ["TypeScript"],
+	"title": "My Project Title",
+	"install": "npm i -g my-project-title"
+	"requires": ["npm"]
+}
