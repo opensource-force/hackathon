@@ -1,4 +1,5 @@
 {
+	"$schema": "./project.schema.json",
 	"name": "Akhil Pillai",
 	"github": "akpi816218",
 	"discord": "equus_quagga",
