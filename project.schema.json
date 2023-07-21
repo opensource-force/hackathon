@@ -9,7 +9,7 @@
 			"type": "string"
 		},
 		"github": {
-			"description"; "Your GitHub username",
+			"description": "Your GitHub username",
 			"type": "string"
 		},
 		"discord": {
