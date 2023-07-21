@@ -12,6 +12,8 @@ Project: Some sort of API or CLI tool (subject to change)
 
 ## Guidelines
 
+- Your project should have a descriptive README
+- It should be fairly simple to install. We suggest publishing to a public package registry like NPM or PyPI, or compiling a binary and providing an easy download along with the SHA fingerprint. If you provide a binary or minified code, you must include source code as well as instructions to build/compile.
 - ⚠️ In Development ⚠️
 
 ## Getting Started
