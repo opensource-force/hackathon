@@ -1,0 +1,13 @@
+{
+	"$schema": "../project.schema.json",
+	"name": "Scott",
+	"github": "darkscott",
+	"discord": "darkscott",
+	"email": "",
+
+	"repo": "hackathon-1",
+	"languages": [],
+	"title": "My Project Title",
+	"install": "",
+	"requires": []
+}
