@@ -1,5 +1,5 @@
 {
-	"$schema": "./project.schema.json",
+	"$schema": "./wick3dr0se.json",
 	"name": "wick3dr0se",
 	"github": "wick3dr0se",
 	"discord": "wick3dr0se",
