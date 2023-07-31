@@ -1,13 +1,11 @@
 {
-	"$schema": "./project.schema.json",
+	"$schema": "../project.schema.json",
 	"name": "Dim",
 	"github": "DimitrisPanas",
 	"discord": "dimpanas",
 	"email": "dim@e-network.gr",
-
-	"repo": "osf-hack-1",
+	"repo": "hackathon-1",
 	"languages": ["C"],
-	"title": "My Project Title",
-	"install": "gcc -o main.c Executable",
+	"title": "Undecided",
 	"requires": ["gcc"]
 }
