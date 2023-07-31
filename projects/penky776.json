@@ -1,0 +1,12 @@
+{
+    "$schema": "../project.schema.json",
+    "name": "Meesam",
+    "github": "penky776",
+    "discord": "penky_",
+    "email": "msmali7123@gmail.com",
+    "repo": "hackathon-1",
+    "languages": [
+        "Rust"
+    ],
+    "title": "Undecided"
+}
