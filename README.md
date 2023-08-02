@@ -6,13 +6,16 @@
 
 ## Metadata
 
-Start date: August 1 00:00:00 UTC (tentative)
+Start date: August 5 00:00:00 UTC (tentative)
 
-Project: Some sort of API or CLI tool (subject to change)
+Project: An API for managing a online forum
 
-## Guidelines
+### Requirements:
 
-- ⚠️ In Development ⚠️
+- Must have disk-persistent storage
+- Must support GET, POST, and DELETE HTTP requests
+- Must have posts with title, author, and body
+- Must have comments with author and body
 
 ## Getting Started
 
