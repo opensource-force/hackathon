@@ -1,0 +1,10 @@
+{
+	"$schema": "../project.schema.json",
+	"name": "wick3dr0se",
+	"github": "wick3dr0se",
+	"discord": "wick3dr0se",
+	"email": "wick3dr0se@protonmail.com",
+	"repo": "OSP-Hackathon",
+	"languages": ["Nim"],
+	"title": "Undecided"
+}

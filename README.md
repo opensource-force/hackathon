@@ -6,6 +6,7 @@
 
 ## Metadata
 
+
 Start date: August 5 00:00:00 UTC (tentative)
 
 Project: An API for managing a online forum
@@ -16,6 +17,13 @@ Project: An API for managing a online forum
 - Must support GET, POST, and DELETE HTTP requests
 - Must have posts with title, author, and body
 - Must have comments with author and body
+
+## Guidelines
+
+- Your project should have a descriptive README
+- It should be fairly simple to install. We suggest publishing to a public package registry like NPM or PyPI, or compiling a binary and providing an easy download along with the SHA fingerprint. If you provide a binary or minified code, you must include source code as well as instructions to build/compile.
+- ⚠️ In Development ⚠️
+
 
 ## Getting Started
 

@@ -1,0 +1,13 @@
+{
+	"$schema": "./project.schema.json",
+	"name": "Jeff",
+	"github": "DitchTurtL",
+	"discord": "DitchTurtL",
+	"email": "DitchTurtL@mail.com",
+
+	"repo": "osf-hack-1",
+	"languages": ["TypeScript"],
+	"title": "My Project Title",
+	"install": "npm i -g my-project-title",
+	"requires": ["npm"]
+}
