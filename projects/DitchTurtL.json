@@ -5,7 +5,7 @@
 	"discord": "DitchTurtL",
 	"email": "DitchTurtL@mail.com",
 
-	"repo": "osf-hack-1",
+	"repo": "ofs_hackathon_1",
 	"languages": ["TypeScript"],
 	"title": "My Project Title",
 	"install": "npm i -g my-project-title",
