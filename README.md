@@ -7,7 +7,9 @@
 ## Metadata
 
 
-Start date: August 5 00:00:00 UTC (tentative)
+Start date: August 5 00:00:00 UTC
+
+Deadline: [projected late November]
 
 Project: An API for managing a online forum
 
