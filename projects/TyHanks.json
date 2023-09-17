@@ -1,0 +1,11 @@
+{
+    "$schema": "../project.schema.json",
+    "name": "TyHanks",
+    "github": "TyHanks",
+    "discord": "THanksDev",
+    "email": "ty.hanks@protonmail.com",
+    "repo": "osf-hackathon-api",
+    "languages": [
+        "Python"
+    ]
+}
